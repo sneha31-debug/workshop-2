@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const { Command } = require('commander')
-const axios = require('axios') //it helps with fetch 
+const axios = require('axios') 
 
 const program = new Command()
 
